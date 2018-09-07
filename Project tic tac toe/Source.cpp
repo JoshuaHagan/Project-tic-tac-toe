@@ -17,6 +17,7 @@ int main()
 	std::cout << " -----|-----|-----" << std::endl;
 	std::cout << "     " << board[0][6] << "|    " << board[0][7] << "|" << board[0][8] << std::endl;
 
+	char
 
 	
 
